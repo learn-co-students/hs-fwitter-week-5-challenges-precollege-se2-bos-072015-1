@@ -14,7 +14,7 @@ type: challenges
 ### Bonus Challenges: 
 + Sinatra has a nice feature called `helpers` for creating methods that can be used throughout your application (not just in one view or route). For instance, you might create a `signed_in?` method that returns true if a `session[:user_id]` exists. This method could be used in your view like this:
 
-```ruby
+```erb
 <% if signed_in? %>
   <h3>Add a tweet</h3>
   <form action="/tweets" method="POST">
