@@ -10,6 +10,7 @@ type: challenges
 + Move your sign up and sign in forms from the users page to a new sign in page.
 + Set up your application to display EITHER a "Sign In" or "Sign Out" link at the top of the page - depending on whether the user is signed in or not. 
   * Hint: You’ll need to use Ruby if/else statements with erb tags - similar to what we did when we hid the tweets form.
++ Work on your Flatiron Swag Store application. If you haven't already started on it go back to Week 4 on Ironboard and take a look.
 
 ### Bonus Challenges: 
 + Sinatra has a nice feature called `helpers` for creating methods that can be used throughout your application (not just in one view or route). For instance, you might create a `signed_in?` method that returns true if a `session[:user_id]` exists. This method could be used in your view like this:
