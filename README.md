@@ -7,6 +7,7 @@ type: challenges
 
 ## Week 5 Challenges!
 
++ Finish up today's ToDo.
 + Move your sign up and sign in forms from the users page to a new sign in page.
 + Set up your application to display EITHER a "Sign In" or "Sign Out" link at the top of the page - depending on whether the user is signed in or not. 
   * Hint: You’ll need to use Ruby if/else statements with erb tags - similar to what we did when we hid the tweets form.
