@@ -1,11 +1,4 @@
----
-tags: forms, kids, ruby, advanced, challenges
-language: ruby
-level: 2
-type: challenges
----
-
-## Week 5 Challenges!
+## Day 5 Challenges!
 
 + Finish up today's ToDo.
 + Move your sign up and sign in forms from the users page to a new sign in page.
